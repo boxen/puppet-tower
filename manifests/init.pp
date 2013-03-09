@@ -5,7 +5,7 @@
 #   include tower
 class tower {
   package { 'Tower':
-    provider => 'appdmg',
-    source   => 'https://s3-eu-west-1.amazonaws.com/wuakidevops/thesetup/Common/Tower.dmg'
+    source   => 'https://s3-eu-west-1.amazonaws.com/wuakidevops/thesetup/Common/Tower-1.4.18.zipi',
+    provider => 'compressed_app'
   }
 }
