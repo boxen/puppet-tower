@@ -1,5 +1,4 @@
-# Tower Puppet Module for Boxen [![Build
-  Status](https://travis-ci.org/boxen/puppet-tower.png?branch=master)](https://travis-ci.org/boxen/puppet-tower)
+# Tower Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-tower.png?branch=master)](https://travis-ci.org/boxen/puppet-tower)
 
 Install [Tower](http://www.git-tower.com), an easy way to share files
 and folders on Mac OS X.
